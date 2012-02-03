@@ -1,0 +1,8 @@
+Name: Kurry L Tran
+Project: A Scalable Anomaly Detection System
+Class: W4240 Data Mining
+Final Project
+
+Abstract
+
+Network intrusion can be defined as any set of inappropriate, incorrect, or anomalous activities, that attempt to compromise the integrity, confidentiality, or availability of a computer network. As communication network systems become more complex, there are increasingly exploitable weaknesses due to design and programming errors, or through the use of various socially engineered penetration techniques. Signature based methods and statistical machine learning algorithms rely on labeled data in order to train misuse and anomaly detection systems, but typically the computational cost is very expensive. This project aims to create a MapReduce distributed and scalable unsupervised anomaly detection system with unlabeled web-scale datasets,that has high classification accuracy and low false alarm rates. 
